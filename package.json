@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/IS-POPULAR/issues"
   },
-  "homepage": "https://github.com/alestor123/IS-POPULAR#readme"
+  "homepage": "https://github.com/alestor123/IS-POPULAR#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
